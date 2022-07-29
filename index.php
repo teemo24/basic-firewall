@@ -35,8 +35,7 @@ body{
 }
 
 </style>
-<div class="container">
-    <img src="/image/catalog/logo/Logo_Mushtryati-02-1@2x.png" title="website title" alt="website title" sizes="502px">
+<div class="container" style="width:50%;">
     <div class="progress-bar"></div>
 </div>
 
